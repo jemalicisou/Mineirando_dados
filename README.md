@@ -1,2 +1,2 @@
-# Mineirando_dados
+# Mineirando Dados
 Exercícios Mentoria Mineirando Dados 
