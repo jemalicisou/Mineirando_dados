@@ -1,13 +1,13 @@
 # Mineirando Dados
 Exercícios Mentoria Mineirando Dados 
 
-Os conteúdos referentes a mentoria incluem :
-Programação em Python
-Listas, Dicionários e matrizes
-Data Analisys e Data Visualization
-Pandas, Librarys(Mathplot) 
-KNN Algorithm 
-Machine Learning 
+* Os conteúdos referentes a mentoria incluem :
+* Programação em Python
+* Listas, Dicionários e matrizes
+* Data Analisys e Data Visualization
+* Pandas, Librarys(Mathplot) 
+* KNN Algorithm 
+* Machine Learning 
 
 Todo o conteúdo foi produzido pelo site:
 http://minerandodados.com.br/ 
